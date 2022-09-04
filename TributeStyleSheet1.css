@@ -1,0 +1,173 @@
+﻿body
+{
+}
+
+#main-header {
+    border: 2px solid black;
+    height: 100px;
+    background: linear-gradient(to bottom, #FF0D00 0%, #000000 100%);
+    border-radius: 10px;
+}
+
+#headerText1 {
+    color: white;
+    padding-left: 20px;
+    font-family: scriptorama-markdown-jf;
+}
+
+#headerText2 {
+    color: white;
+    padding-left: 4px;
+    font-family: scriptorama-markdown-jf;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#menu-header {
+    border: 2px solid black;
+    height: 30px;
+    background: linear-gradient(to bottom, #FF0D00 0%, #000000 100%);
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+#date-time {
+    float: right;
+    padding-right: 10px;
+    color: #FFFFFF;
+    font-family: scriptorama-markdown-jf;
+}
+
+#main-content {
+    border: 2px solid black;
+    height: fit-content;
+    width: 1075px;
+    float: right;
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 10px;
+    background-color: #E3E6E1;
+}
+
+#left-box {
+    border: 2px solid black;
+    height: 1895px;
+    width: 150px;
+    float: left;
+    position: static;
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #E3E6E1;
+}
+
+#title {
+    margin-left: 15px;
+    font-family: scriptorama-markdown-jf;
+}
+
+img.jordanmain {
+    height: 40%;
+    float: right;
+    margin-right: 15px;
+    position: relative;
+    margin-left: 10px;
+}
+
+img.jumpmanlogo {
+    float: right;
+    padding-top: 10px;
+    padding-right: 30px;
+    display: inline-block;
+    height: 80%;
+    width: 7%;
+}
+
+img.nbalogo {
+    float: right;
+    padding-top: 2px;
+    padding-right: 20px;
+    display: inline-block;
+    height: 100%;
+    width: 20%;
+}
+img.jordandunk {
+    padding-left: 15px;
+}
+
+#main-text1 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+
+#main-text2 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+
+#main-text3 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 10px;
+}
+
+#main-text4 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+
+#header1 {
+    font-family: scriptorama-markdown-jf;
+}
+
+#header2 {
+    font-family: scriptorama-markdown-jf;
+}
+
+#header3 {
+    font-family: scriptorama-markdown-jf;
+}
+
+#side_menu {
+    font-family: scriptorama-markdown-jf;
+    text-align: center;
+    position: fixed;
+    transition: top 0.3s;
+    top: 200px;
+}
+
+#side_menu a:visited {
+    color: #400BD6;
+}
+
+#side_menu a:hover {
+    color: #FF0D00;
+}
+
+img.arrow {
+    height: 8.5%;
+    width: 8.5%;
+}
+
+img.wikilogo {
+    height: 2%;
+    width: 2%;
+    padding-right: 10px;
+}
+
+img.nbalink {
+    height: 1.5%;
+    width: 1.5%;
+    padding-right: 10px;
+}
+
+footer {
+    padding-top: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
